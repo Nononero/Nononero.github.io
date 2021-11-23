@@ -1,2 +1,2 @@
-# Nononero.github.io
+# For study
 SCH's study blog
