@@ -2,4 +2,4 @@
 
 SCH's study blog
 
-Homework for CS61A is from 2021 Fall.
+CS61A's homework is from 2021 Fall.
